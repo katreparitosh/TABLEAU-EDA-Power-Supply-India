@@ -7,7 +7,7 @@ This project includes **Exploratory Data Analysis** and **Data Visualization** o
 Data was downloaded form [Open Government Data Portal](https://data.gov.in/).
 
 # Insights: 
-*(Including only a few insights, other insights included in the Code Folder )*
+*(Including only a few insights, other insights included in the [Code File](https://github.com/katreparitosh/TABLEAU-EDA-Power-Supply-India/tree/master/Code%20Files) )*
 
 1) Geographical Symbol Maping of **Surplus/Deficit in Percent**.
 
